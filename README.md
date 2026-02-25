@@ -28,3 +28,12 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+## About
+
+I am Omar Salman, and this repository contains my Day 1 and Day 2 pre-work submissions for the AI.SPIRE Applied AI & ML Systems program.
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-OMARSALMAN1510.git
+cd prework-day-1-and-2-OMARSALMAN1510
